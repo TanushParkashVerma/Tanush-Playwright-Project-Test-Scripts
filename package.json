@@ -1,0 +1,22 @@
+{
+  "name": "tanush-playwright-project-test-scripts",
+  "version": "1.0.0",
+  "description": "Tanush-Playwright-Project-Test-Scripts",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanushParkashVerma/Tanush-Playwright-Project-Test-Scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanushParkashVerma/Tanush-Playwright-Project-Test-Scripts/issues"
+  },
+  "homepage": "https://github.com/TanushParkashVerma/Tanush-Playwright-Project-Test-Scripts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.11"
+  }
+}
